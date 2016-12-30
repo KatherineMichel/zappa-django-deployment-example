@@ -4,7 +4,7 @@ Files from initial deployment of [Zappa](https://github.com/Miserlou/Zappa) usin
 
 ## Instructions
 
-* Set up AWS account and properly install AWS credentials file
+* Set up AWS account and properly install AWS credentials file on your computer
 * Create GitHub repo, clone it, and cd into root folder
 * Ensure you are using Python 2.7 version (I'm using 2.7.12 via pyenv)
 * Create your working environment (zappa-django-deployment-example-env in my case)
