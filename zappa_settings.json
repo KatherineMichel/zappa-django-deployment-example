@@ -1,0 +1,6 @@
+{
+    "production": {
+        "django_settings": "core.settings", 
+        "s3_bucket": "zappa-django"
+    }
+}
