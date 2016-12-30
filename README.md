@@ -9,7 +9,7 @@ Files from initial deployment of [Zappa](https://github.com/Miserlou/Zappa) usin
 * Ensure you are using Python 2.7 version (I'm using 2.7.12 via pyenv)
 * Create your working environment (zappa-django-deployment-example-env in my case)
 * Install Django (`$ pip install django`)
-* cd out of project root folder
+* cd out of root folder
 
 ### Create Project
 
@@ -17,7 +17,7 @@ Files from initial deployment of [Zappa](https://github.com/Miserlou/Zappa) usin
 
 ### Zappa
 
-cd into project root folder, configure project settings to your liking
+cd into root folder, configure project settings to your liking
 
     $ pip install zappa
     $ pyenv local zappa-django-deployment-example-env
