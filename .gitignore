@@ -1,5 +1,6 @@
 .DS_Store
+.env
 venv
 *.pyc
+.python-version
 staticfiles
-.env
